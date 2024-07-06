@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+}
+body{
+    background-image:url('login.jpg');
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+    background-size:100% 100%;
+}
+.one{
+    padding: 30px;
+
+
+}
+.top{
+    color: purple;
+    text-align: center;
+    padding:50px;
+
+}
+.two{
+    text-align: center;
+    
+    padding: 20px;
+}
+input{
+    width: 25%;
+    padding: 10px;
+}
+.navi{
+    width: 100%;
+    height: 70px;
+    background-color: purple;
+    display: inline-block;
+}
+.place{
+    display: inline-block;
+}
+
